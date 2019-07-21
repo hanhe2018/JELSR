@@ -3,6 +3,9 @@ Unsupervised Feature Selection of Joint Embedding Sparse Regression Analysis.
 # Summary
 The function JELSR follows the paper "Joint Embedding Learning and Sparse Regression: A Framework for Unsupervised Feature Selection"(2014) by  Chenping Hou, Feiping Nie, Xuelong Li, Dongyun Yi and Yi Wu
 
+# Installation
+Run "pip install JELSR" to install the package
+
 # Why a new package
 The JELSR feature selection approach is of great importance and is one of the most popular approaches in feature selection of unsupervised clustering problem.
 
