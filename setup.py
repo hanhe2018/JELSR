@@ -26,9 +26,3 @@ setuptools.setup(
     ],
 )
 
-
-# In[1]:
-
-
-import setuptools
-
