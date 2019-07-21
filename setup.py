@@ -17,7 +17,7 @@ setuptools.setup(
     description="JELSR_Feature_Selection",                  
     long_description=long_description,                      
     long_description_content_type="text/markdown",          
-    url="https://github.com/hanhe2018/JELSR",            
+    url="https://github.com/hanhe2018/JELSR/blob/master",            
     packages=setuptools.find_packages(),               
     classifiers=[                                         
         "Programming Language :: Python :: 3",             
